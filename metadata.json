@@ -1,0 +1,5 @@
+{
+  "name": "Farsi Flashcards",
+  "description": "A mobile-friendly vocabulary flashcard application for learning English-Persian words. Features include flip animations, local storage persistence for new words, and a review mode.",
+  "requestFramePermissions": []
+}
